@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'C:/Users/vibe/Documents/NetBeansProjects/OlaMundoSwing/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vibe/Documents/NetBeansProjects/OlaMundoSwing/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'OlaMundoSwing 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Users/vibe/Documents/NetBeansProjects/OlaMundoSwing/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'OlaMundoSwing 1.0-SNAPSHOT API'
+com.mycompany.olamundoswing
+cursoemvideo.olamundos
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\src\main\java = 1695910367339
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\allclasses-index.html = 1696022717461
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\allpackages-index.html = 1696022717467
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\constant-values.html = 1696022717347
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\deprecated-list.html = 1696022717406
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\element-list = 1696022717178
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\help-doc.html = 1696022717480
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\index-all.html = 1696022717452
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\index.html = 1696022717413
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\jquery-ui.overrides.css = 1696022717573
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\member-search-index.js = 1696022717447
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\module-search-index.js = 1696022717439
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\overview-summary.html = 1696022717471
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\overview-tree.html = 1696022717397
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\package-search-index.js = 1696022717441
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\script.js = 1696022717499
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\search.js = 1696022717505
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\serialized-form.html = 1696022717363
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\stylesheet.css = 1696022717496
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\tag-search-index.js = 1696022717449
+C:\Users\vibe\Documents\NetBeansProjects\OlaMundoSwing\target\apidocs\type-search-index.js = 1696022717445
